@@ -1,0 +1,6 @@
+don<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <hostname>localhost</hostname>
+    <dbname>shoes_db</dbname>
+    <username>root</username>
+</config>
